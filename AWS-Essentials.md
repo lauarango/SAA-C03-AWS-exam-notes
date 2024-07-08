@@ -23,7 +23,7 @@ Here you will discover what I consider essential to know and remember through th
 </dl>
 
 <dl>
-<dt> - Runtime : </dt><dd>The stage where a program's code is actively executed by the computer. This includes the environment in which the program runs, consisting of the operating system, libraries, and other dependencies required for proper execution.</dd>
+<dt> - :computer: Runtime : </dt><dd>The stage where a program's code is actively executed by the computer. This includes the environment in which the program runs, consisting of the operating system, libraries, and other dependencies required for proper execution.</dd>
 </dl>
 
 <dl>
