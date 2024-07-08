@@ -27,5 +27,5 @@ ___
 <dd>The IAM role assigns those permissions to a specific user or application (who can do it)</dd>
 </dl>
 
-
+> 💡 : You can also *use Groups that act as containers for users*. In which you can add users and grant them permissions indirectly by attaching IAM Policies to the group. Any user within the group inherits the permissions defined in the attached policies.
 
