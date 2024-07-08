@@ -25,6 +25,7 @@ ___
 <dl>
 <dd>The IAM policy defines the permissions (what someone can do).</dd>
 <dd>The IAM role assigns those permissions to a specific user or application (who can do it)</dd>
+<dd>You can't directly assign IAM Roles to Groups in AWS but you can directly assign assign policies to groups.</dd>
 </dl>
 
 > 💡 : You can also *use Groups that act as containers for users*. In which you can add users and grant them permissions indirectly by attaching IAM Policies to the group. Any user within the group inherits the permissions defined in the attached policies.
