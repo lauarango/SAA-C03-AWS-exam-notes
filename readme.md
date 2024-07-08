@@ -11,7 +11,5 @@ related to the exam
 
 
 
-> This is some important information.
-
->!WARNING! This repository can contain errors or outdated information and more.
-> This is based on my own experience and learning path.
+ :warning:  Important Cleareance 
+ >!WARNING! This repository can contain errors or outdated information and more.
