@@ -8,3 +8,10 @@ related to the exam
 - [AWS Essentials](./AWS-Essentials.md)
 - [IAM & CLI](./AWS-IAM-and-CLI.md)
 - 
+
+
+
+> This is some important information.
+
+>!WARNING! This repository can contain errors or outdated information and more.
+> This is based on my own experience and learning path.
