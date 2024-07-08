@@ -8,4 +8,5 @@ Here you will discover what I consider essential to know and remember through th
 
 <dl>
 <dt> - Proximity : </dt><dd>Reduced latency</dd>
+<dd> - Reducing the number of networks that your user’s requests must pass through, improves performance. Deliver digital assets to end-users with the lowest possible latency also improves customer experience </dd>
 </dl>
