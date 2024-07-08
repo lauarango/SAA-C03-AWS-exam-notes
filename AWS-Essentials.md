@@ -19,7 +19,7 @@ Here you will discover what I consider essential to know and remember through th
 
 <dl>
 <dt> - :japan: Available Services : <dt><dd>Does this Service works in this region?</dd>
-<dd>New services aren't immediately available in every region.</dd><dd>There can be delay between a service announcement and it's availability in a region.</dd>
+<dd>It's important to remember that new services aren't immediately available in every region.</dd><dd>There can be delay between a service announcement and it's availability in a region.</dd>
 </dl>
 
 <dl>
