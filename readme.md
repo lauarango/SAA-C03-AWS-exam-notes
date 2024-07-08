@@ -1,13 +1,13 @@
 # Hey there! This is SAA-C03 Exam Notes
 
-These are my notes for the SAA-C03 exam, based on Stephane Maarek Solution's Architect Course and AWS material
+These are my notes for the SAA-C03 exam, based on Stéphane Maarek Solution's Architect Course and AWS material
 related to the exam 
 
 ### Table of Contents
 
 - [AWS Essentials](./AWS-Essentials.md)
 - [IAM & CLI](./AWS-IAM-and-CLI.md)
-- 
+- [Availability](./AWS-IAM-and-CLI.md)
 
 
 
