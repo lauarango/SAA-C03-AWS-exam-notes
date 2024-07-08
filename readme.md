@@ -20,4 +20,4 @@ related to the exam
 &nbsp;
 &nbsp;
 
- > :warning: : This repository can contain errors or outdated information and more. 
+ > :warning: : Along this repository you can find errors or outdated information and more. 
