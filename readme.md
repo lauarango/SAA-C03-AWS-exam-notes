@@ -8,7 +8,10 @@ related to the exam
 - [AWS Essentials](./AWS-Essentials.md)
 - [AWS Availability (Data Centers, Regions, A-Z, Edge Locations)](./AWS-Availability.md)
 - [IAM & CLI](./AWS-IAM-and-CLI.md)
-- [EC2](./AWS-EC2-Fundamentals.md)
+- [EC2 Fundamentals](./AWS-EC2-Fundamentals.md)
+- [EC2 for Solutions Architect](./AWS-EC2-for-SAA.md)
+- [EC2 Storage Oriented](./AWS-EC2-Storage.md)
+- 
 
 
 
