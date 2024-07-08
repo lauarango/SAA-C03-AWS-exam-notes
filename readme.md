@@ -6,8 +6,9 @@ related to the exam
 ### Table of Contents
 
 - [AWS Essentials](./AWS-Essentials.md)
-- [IAM & CLI](./AWS-IAM-and-CLI.md)
 - [AWS Availability (Data Centers, Regions, A-Z, Edge Locations)](./AWS-Availability.md)
+- [IAM & CLI](./AWS-IAM-and-CLI.md)
+
 
 
 
