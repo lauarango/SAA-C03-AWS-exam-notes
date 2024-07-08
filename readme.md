@@ -7,7 +7,7 @@ related to the exam
 
 - [AWS Essentials](./AWS-Essentials.md)
 - [IAM & CLI](./AWS-IAM-and-CLI.md)
-- [Availability](./AWS-IAM-and-CLI.md)
+- [AWS Availability (A-Z, Regions, Edge Locations)](./AWS-Availability.md)
 
 
 
