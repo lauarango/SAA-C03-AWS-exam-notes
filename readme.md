@@ -5,5 +5,6 @@ related to the exam
 
 ### Table of Contents
 
+- [AWS Essentials](./AWS-Essentials.md)
 - [IAM & CLI](./AWS-IAM-and-CLI.md)
 - 
