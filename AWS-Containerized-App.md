@@ -1,6 +1,8 @@
 ## Containerized App with ECS
 
-Here you will find how to 
+> You need to have an app to deploy (any programming language).
+
+Here you will find how to:
 
 - Create a Docker Image
   
