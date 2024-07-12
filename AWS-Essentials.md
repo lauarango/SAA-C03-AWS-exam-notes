@@ -29,3 +29,9 @@ Here you will discover what I consider essential to know and remember through th
 <dl>
 <dt> - FQDN (Fully Qualified Domain Name) : </dt><dd>
 </dl>
+
+<dl>
+<dt> Batch Processing : </dt><dd> Batch processing is the method computers use to periodically complete high-volume, repetitive data jobs. Organizations use batch processing because it requires minimal human interaction and makes repetitive tasks more efficient to run. 
+  
+You can set up batches of jobs composed of millions of records to be worked through together when compute power is most readily available, putting less stress on your systems. </dd>
+</dl>
