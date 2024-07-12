@@ -4,7 +4,7 @@ Here you will find how to
 
 - Create a Docker Image
   
-- Push that image to a ECR repository
+- Push that image to an ECR repository
   
 - Deploy an application using Amazon ECS and Amazon Fargate 
   
