@@ -13,7 +13,7 @@ related to the exam
 - [EC2 Storage Oriented](./AWS-EC2-Storage.md)
 
  
-- [Creating a Containerized Application with ECR, ECS and Fargate](./AWS-Containerized-App-With-ECR.md)
+- [Creating a Containerized Application with ECR, ECS and Fargate](./AWS-Containerized-App.md)
 
 
 
