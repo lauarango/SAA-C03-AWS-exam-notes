@@ -2,6 +2,12 @@
 
 > You need to have an app to deploy (any programming language).
 
+I made this diagram in case you want to try the lab all by yourself!
+
+![test drawio (1)](https://github.com/user-attachments/assets/e0757a39-ecee-4da3-b4bb-92a253636fdb)
+
+
+
 Here you will find how to:
 
 - Create a Docker Image
