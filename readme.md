@@ -12,8 +12,11 @@ related to the exam
 - [EC2 for Solutions Architect](./AWS-EC2-for-SAA.md)
 - [EC2 Storage Oriented](./AWS-EC2-Storage.md)
 
+
  
-- [Creating a Containerized Application with ECR, ECS and Fargate](./AWS-Containerized-App.md)
+- [Lab - Creating a Containerized Application with ECR, ECS and Fargate](./AWS-Containerized-App.md)
+
+- [Lab - Data Ingestion with Data Firehouse, Lambda, Athena, AWS Athena and more](./AWS-Data-Ingestion.md)
 
 
 
