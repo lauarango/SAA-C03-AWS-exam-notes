@@ -13,6 +13,7 @@ related to the exam
 - [EC2 Storage Oriented](./AWS-EC2-Storage.md)
 
 
+- [Lab - Single Page App with Amazon S3, API Gateway and AWS Lambda.md](./AWS-App-S3-APIGateway-Lambda)
  
 - [Lab - Creating a Containerized Application with ECR, ECS and Fargate](./AWS-Containerized-App.md)
 
